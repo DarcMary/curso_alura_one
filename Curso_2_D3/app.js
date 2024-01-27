@@ -39,7 +39,7 @@ const resultareaEPerimetroSalaCircular = areaEPerimetroSalaCircular(3);
 function tabuada(Numer) {
     for (let i = 1; i <= 10; i++) {
         const resultadoTabuada = Numer * i;
-        console.log(resultadoTabuada)
+        console.log(resultadoTabuad);
     }
 }
 tabuada(15);
